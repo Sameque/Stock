@@ -1,2 +1,2 @@
-# Stok
+# Stock
 Exemple architecture
